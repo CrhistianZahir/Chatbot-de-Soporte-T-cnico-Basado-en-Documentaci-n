@@ -1,0 +1,13 @@
+# Ejemplo de uso
+ruta_archivo = "/content/Articulo.pdf"
+respuesta = chatbot_soporte_tecnico(ruta_archivo, "¿De qué trata el artículo?")
+print("Respuesta:", respuesta)
+
+Respuesta: propone la identificación de las condiciones de adquisición de imágenes en zonas urbanas para detectar residuos sólidos mediante visión artificial
+
+
+# Ejemplo de uso 2
+respuesta = chatbot_soporte_tecnico(ruta_archivo, "¿que son los parámetros de caracterización?")
+print("Respuesta:", respuesta)
+
+Respuesta: a) altura de la cámara, el ángulo de inclinación y el nivel de luminosidad en la zona donde se tomaron las imágenes [11]. a) Altura de la cámara: Las imágenes se tomaron en las zonas seleccionadas a alturas de 0.5 m y 1.5 m con respecto a la superficie del canal. Estas posiciones se definieron mediante el análisis de factores como, la perspectiva, una menor variabilidad en el tamao de los residuos observados, ajustando los ángulos para la obtención de una visión adecuada de los residuos, teniendo también las propias restricciones del lente de la cámara que determinan el ángulo de visión en la captura de las imágenes [13]. c) Luminosidad: Para evaluar el nivel de luminosidad al momento de realizar la adquisición de imágenes se empleó dos dispositivos de captura de 12 MP f/1.6, OIS y 64 MP OIS f/1.9. b) ngulo de inclinación: la inclinación del ángulo del dispositivo de captura de imágenes fueron de 20° y 60°. Estos ángulos establecieron teniendo también las caractersticas propias del área urbana, contemplando el cómo este afecta la perspectiva de las imágenes, ajustando los ángulos para la obtención de una visión adecuada de los res
