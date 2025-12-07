@@ -47,3 +47,6 @@ Este proyecto aprovecha **LLMs** para generar respuestas precisas y detalladas b
 ---
 ## **💻 Ejemplo de Respuesta Generada por el LLM**
 Puedes ver un ejemplo completo de la salida del chatbot en ejemplo_respuesta.txt, donde FLAN-T5 genera una respuesta detallada basada en el contexto del documento.
+
+## **📂 Documento pdf usado**
+El documento pdf usado es un artículo de investigación de mi autoria y lo puedes encontrar en el siguiente enlace de la revista en donde se encuentra publicado: https://revistas.unisimon.edu.co/index.php/innovacioning/article/view/6690
