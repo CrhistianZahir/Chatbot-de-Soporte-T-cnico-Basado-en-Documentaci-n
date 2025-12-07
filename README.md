@@ -45,5 +45,5 @@ Este proyecto aprovecha **LLMs** para generar respuestas precisas y detalladas b
 4. **Generación de respuestas**: **FLAN-T5** recibe los fragmentos relevantes y genera una respuesta coherente y contextualizada.
 
 ---
-
-## **📂 Estructura del Proyecto**
+## **💻 Ejemplo de Respuesta Generada por el LLM**
+Puedes ver un ejemplo completo de la salida del chatbot en ejemplo_respuesta.txt, donde FLAN-T5 genera una respuesta detallada basada en el contexto del documento.
